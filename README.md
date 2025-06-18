@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Mateus Araújo
+# 👨‍💻 Mateus Araújo
 
-**`Desenvolvedor FullStack`**
+**`DESENVOLVEDOR FULLSTACK`**
 
 Olá, me chamo Mateus Jeová C.de Araújo, tenho 25 anos e sou natural de Ji-Paraná/RO. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na ESTÁCIO. 
 
@@ -133,14 +133,14 @@ Olá, me chamo Mateus Jeová C.de Araújo, tenho 25 anos e sou natural de Ji-Par
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=mjeova&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjeova&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
