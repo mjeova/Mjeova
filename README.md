@@ -127,6 +127,10 @@ Olá, me chamo Mateus Jeová C.de Araújo, tenho 25 anos e sou natural de Ji-Par
 
 ### 📊 Estatísticas
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjeova&layout=compact" alt="Linguagens mais usadas no GitHub" />
+<img src="https://github-readme-stats.vercel.app/api?username=mjeova&show_icons=true" alt="Estatísticas do GitHub" />
 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mjeova&show_icons=true)
 ![GitHub language count](https://github-readme-stats.vercel.app/api/top-langs/?username=mjeova&layout=compact)
 
